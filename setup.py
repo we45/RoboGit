@@ -18,7 +18,7 @@ setup(
     author_email='info@we45.com',
     description='Robot Framework Library for Basic Git ops',
     install_requires=[
-        'GitPython==2.1.9',
+        'GitPython==3.1.34',
         'robotframework==3.0.4'
     ],
     long_description = long_description,
